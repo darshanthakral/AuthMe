@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="sign_up_page_common_margin">18dp</dimen>
+    <dimen name="sign_in_page_common_margin">26dp</dimen>
+    <dimen name="profile_page_common_margin">12dp</dimen>
+</resources>

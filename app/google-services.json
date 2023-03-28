@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708459534494",
+    "project_id": "authmedemo",
+    "storage_bucket": "authmedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708459534494:android:e0be79264c93193fe8838f",
+        "android_client_info": {
+          "package_name": "com.example.authme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708459534494-psj2rdr3hvci6eqh0l2aoqb9so7vmkdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj3YLlRaFPJudrwqIL3lL-0jKB61YChg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708459534494-psj2rdr3hvci6eqh0l2aoqb9so7vmkdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
